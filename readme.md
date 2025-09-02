@@ -1,0 +1,1 @@
+This is a project about predicting the credit score of individuals based on historical data.
